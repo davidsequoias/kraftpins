@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.kraftpins.com/sitemap.xml
+Sitemap: https://kraftpins.com/sitemap.xml
